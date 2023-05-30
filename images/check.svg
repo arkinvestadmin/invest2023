@@ -1,0 +1,9 @@
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 33 24" width="33" height="24">
+	<title>check-svg</title>
+	<defs>
+		<image  width="33" height="24" id="img1" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACEAAAAYAQMAAABOXwZJAAAAAXNSR0IB2cksfwAAAAZQTFRF/wA5e2jufrIMSQAAAAJ0Uk5TAP9bkSK1AAAAWUlEQVR4nGNgYGBgZwAB/gYQKQ9m24PJOjD5B0Qw/gCRzB9AJPsDsPIDYOVATQpg5RVg5TVg5TVg5XZg5fJg5fz9IOX890F2sP8Hm/UPbC7YdAaw6QwFQAwA3yYUYTDTLvMAAAAASUVORK5CYII="/>
+	</defs>
+	<style>
+	</style>
+	<use id="img1" href="#img1" x="0" y="0" />
+</svg>
